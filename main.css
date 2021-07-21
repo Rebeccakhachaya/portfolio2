@@ -124,7 +124,7 @@ body{
     }
     .paragraph{
       margin-right: auto;
-      margin-left: 50px;
+      margin-right: 150px;
       font-size: 24px;
     }
     #project{
@@ -151,6 +151,31 @@ body{
       background-color: white;
       text-align: center;
     }
-    
+    header{
+      float: right;
+      text-align: center;
+      padding-right: 500px;
+    }
+    .fa-linkedin {
+      background: #007bb5;
+      color: white;
+    }
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+      
+    }.fa-facebook {
+      background: #3B5998;
+      color: white;
+      font-size: 200px;
+    }
+    .icons{
+      text-align: center;
+      font-size: larger;
+      margin-top: 2%;
+    }
+    .a{
+      font-size: 200px;
+    }
     
     
